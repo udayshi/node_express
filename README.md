@@ -9,6 +9,11 @@ Node v8.11 with express and yarn
 ## Install
 ```
  npm i express -s
+ or 
+  yarn add express -S
+  
+  --template
+  yarn add ejs -S
 ```
 
 
